@@ -1,0 +1,15 @@
+---
+layout: post
+author: alueker
+title: "Andrew L's Project Proposal"
+---
+
+For my project, I want to create a choose your own adventure game in python using the turtle module. I've created a choose-your-own-adventure game in Python before, but my previous game was text based, unlike this game which will incorporate user input.
+The idea of the game will be that you play as a turtle getting ready for the day (you can choose the color for your turtle). After you're ready you can interact with the environment and choose to go to several everyday locations such as a bar, the movies, a park, etc. and depending on where you end up you could find any number of surprises
+
+Here is a brief itenerary of the schedule I have made for myself:
+Nov 17: Have a functioning turtle that can move in his environment, possibly have some of the buildings created, begin rough outline of branching paths 
+Nov 24: Have branching paths built and all endings created
+Dec 1: Have at least one of the final games built for classroom presentation and demonstration
+Dec 9: Final product, game built and ready for public consumption
+
